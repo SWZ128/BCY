@@ -7,6 +7,7 @@
 // @match        https://bcy.net/item/detail/*
 // @grant        unsafeWindow
 // @run-at       document-end
+// @license      mit
 // ==/UserScript==
 
 /*

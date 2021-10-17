@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         半次元原图（无水印）
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  获取半次元原图脚本
 // @author       LinZi
 // @match        https://bcy.net/item/detail/*

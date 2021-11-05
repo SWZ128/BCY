@@ -14,4 +14,4 @@ https://greasyfork.org/zh-CN/scripts/434023
 - 显示半次元（bcy.net）图片的大图url（下载辅助）
     - 插件地址： https://greasyfork.org/zh-CN/scripts/23336
 ## License
-[MIT License](https://mit-license.org/)
+MIT License

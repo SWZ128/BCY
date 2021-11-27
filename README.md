@@ -1,5 +1,5 @@
 # BCY原图
-用于获取[半次元](https://bcy.net/)无水印原图的Tampermonkey脚本
+用于获取 [半次元(https://bcy.net/)](https://bcy.net/) 无水印原图的Tampermonkey脚本
 
 ## 安装
 - 从 Greasy Fork 中安装

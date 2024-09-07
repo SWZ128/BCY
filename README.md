@@ -1,3 +1,5 @@
+**半次元已于2023年7月12日停止运营和服务**
+
 # BCY原图
 用于获取 [半次元(https://bcy.net/)](https://bcy.net/) 无水印原图的Tampermonkey脚本
 
